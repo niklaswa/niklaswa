@@ -5,4 +5,4 @@ I've experience in many software engineering areas. Worked on multiple websites,
 Loves to explore new and modern technologies to make little tools and micro services for the most different areas of application.
 
 Favorite areas, technologies & frameworks:
-Python, FastAPI, Docker, Symfony (PHP), Swift for iOS & macOS, JetBrains IDEs, Dev&ChatOps (CI/CD, Actions)
+TypeScript, React, Python, FastAPI, Docker, Swift for iOS & macOS, JetBrains IDEs, Dev&ChatOps (CI/CD, Actions)
